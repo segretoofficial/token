@@ -3,10 +3,15 @@ TECH DETAILS:
 Type: ERC20 Token
 
 Ticker: SGO
+
 Symbol: ς
+
 Total Emission: 1,000,000,000
+
 Decimals: 0.0001
+
 Purpose: Utility token
+
 Start Price: 0.000015 ETH
 
 Further Information On Ethereum Tokens

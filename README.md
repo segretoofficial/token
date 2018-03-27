@@ -20,9 +20,9 @@ Start Price: 0.000015 ETH
 
 Segreto Token page: http://segreto.co
 
-EtherScan SGO token search: https://etherscan.io/token/0xd6d77c307d3215bb4ac45a0a6f16580fbec78563
+White Paper: http://segreto.co/segreto-wp-v1.1.pdf
+
+EtherScan SGO token: https://etherscan.io/token/0xd6d77c307d3215bb4ac45a0a6f16580fbec78563
 
 ERC20 Contract:	0xd6d77c307d3215bb4ac45a0a6f16580fbec78563
-
-Etherscan token selection of popular tokens: https://etherscan.io/tokens
 

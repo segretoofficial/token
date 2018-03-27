@@ -17,11 +17,12 @@ Start Price: 0.000015 ETH
 
 
 
-Further Information On Ethereum Tokens
 
-Ethereum.org Token page: https://www.ethereum.org/token
+Segreto Token page: http://segreto.co
 
-EtherScan ERC20 token search: https://etherscan.io/token-search
+EtherScan SGO token search: https://etherscan.io/token/0xd6d77c307d3215bb4ac45a0a6f16580fbec78563
+
+ERC20 Contract:	0xd6d77c307d3215bb4ac45a0a6f16580fbec78563
 
 Etherscan token selection of popular tokens: https://etherscan.io/tokens
 

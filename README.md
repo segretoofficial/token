@@ -1,6 +1,7 @@
 TECH DETAILS:
 
 Type: ERC20 Token
+
 Ticker: SGO
 Symbol: ς
 Total Emission: 1,000,000,000
